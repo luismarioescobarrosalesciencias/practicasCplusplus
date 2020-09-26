@@ -2,6 +2,6 @@
 #include<iostream>
 using namespace std;
 int main(){
-cout<<"Hola mundo";
-//printf("Hellow world");
+cout<<"Hola mundo"<<endl;
+printf("Hellow world");
 return 0;}
