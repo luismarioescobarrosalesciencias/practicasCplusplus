@@ -4,5 +4,5 @@ using namespace std;
 int main(){
 cout<<"Hola mundo"<<endl;
 printf("Hellow world");
-//practica git
+//practica git, repositorios 
 return 0;}
